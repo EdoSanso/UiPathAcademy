@@ -9,33 +9,10 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "Main(Autosaved).xaml",
-      "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "TransactionItem&StateMachine_1",
-        "SystemException&StateMachine_1",
-        "BusinessException&StateMachine_1",
-        "TransactionNumber&StateMachine_1",
-        "Config&StateMachine_1",
-        "RetryNumber&StateMachine_1",
-        "TransactionField2&StateMachine_1",
-        "TransactionField1&StateMachine_1",
-        "TransactionID&StateMachine_1",
-        "dt_TransactionData&StateMachine_1",
-        "ConsecutiveSystemExceptions&StateMachine_1",
-        "ShouldStop&Sequence_25"
-      ],
-      "ArgumentsSectionElementsOrder": [
-        "in_OrchestratorQueueName",
-        "in_OrchestratorQueueFolder"
-      ],
-      "ConstantsSectionElementsOrder": [],
-      "AddedNamespaces": null
-    },
-    {
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "Hash&Sequence_37",
         "WorkItemData&StateMachine_1",
         "CurrentWIID&Sequence_37",
         "TransactionItem&StateMachine_1",
@@ -86,7 +63,7 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "ACME_SearchWorkItem.xaml",
+      "Path": "ACME/ACME_SearchWorkItem.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "Table_Row&Sequence_8",
@@ -134,6 +111,7 @@
         "ExtractDataTable&Sequence_9"
       ],
       "ArgumentsSectionElementsOrder": [
+        "out_SystemException",
         "in_Config",
         "Completed"
       ],
@@ -176,12 +154,66 @@
       "Path": "ACME/ACME_ExtractWorkItemData.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "extractInfo&Sequence_3",
         "ClientCountry&Sequence_3",
         "ClientName&Sequence_3",
         "ClientID&Sequence_3"
       ],
       "ArgumentsSectionElementsOrder": [
-        "in_WorkItemData"
+        "out_WorkItemData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SHA1/SHA1_GenerateHash.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "Out_Hash",
+        "In_Hash"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ACME/ACME_UpdateWorkItem.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "In_Comment"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/CloseAllApplications.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ACME/ACME_Close.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ACME/ACME_Open.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Username&Sequence_1",
+        "Password&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_SystemException",
+        "in_ACMEAppPath",
+        "in_OrchestratorFolderPath",
+        "in_CredentialAssetName"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="vmtPerqN7k62PQMLpTQjtg" Reference="LK0QGuvYuEK_c2ORM_RTkg/Ue5bUi62lE-glssouzwfvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="106, 0, 580, 839" BrowserType="Edge" ContentHash="Z8ghqddfsEenUDBCT9aWpQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEWSURBVDhPjdJRVQQxDIXhSkACEpCABCStA3AADpAADlgH4AAJcL+QmdOZnT2H/2Xa5OY26XTsuQ+P4TP8NB/hOdyGll1yExR+BwUMFMB6idF0yRaCl8CIUGGnqivGYk+Blq7TY3CVsH4I76ESE2+BkbWD1k64mpPBKRDCekbMyda0asrQ5aBUQavzfkGRXG9Pr0GsZr8L1U4g2szXiMn1tjp3V0MrHSv2+5lD7WHwCofa/S/77wjGNv5wES6k76YuUay3Ky5Wrre1Rz0SrSxFXK/9Rlh7A2rWzhWXW2BIWIkJMY/MmoGaSsB8TpbgqlVGnV5/GZ2DaDu1hSshga9CLDHGNIy65BIF3vo5mBNfQeHc1R9j/AK4TYPQuzQ9JQAAAABJRU5ErkJggg==" Reference="LK0QGuvYuEK_c2ORM_RTkg/Ue5bUi62lE-glssouzwfvA" Selector="&lt;html app='msedge.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" Title="ACME System 1" Url="https://acme-*.uipath.com/work-items/update/*" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="e93ab0e59e7f4c00f31d284a77505057.jpg" xmlns="">0fw5CZbni90WgXkbnXIi4jA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

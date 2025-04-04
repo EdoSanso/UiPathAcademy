@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Client Information Deta…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2rKBqAdenkK7F12yyCSwPw",
+  "Reference": "LK0QGuvYuEK_c2ORM_RTkg/2rKBqAdenkK7F12yyCSwPw",
+  "ParentRef": "LK0QGuvYuEK_c2ORM_RTkg/45ljV1fRpUexHHiMZOP9xQ",
+  "Created": "2025-03-31T14:30:47.8999989Z",
+  "Updated": "2025-03-31T14:30:47.8999989Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

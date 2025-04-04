@@ -1,0 +1,15 @@
+﻿{
+  "Name": "UpdateWorkItemWindow",
+  "Type": "Screen",
+  "Id": "Ue5bUi62lE-glssouzwfvA",
+  "Reference": "LK0QGuvYuEK_c2ORM_RTkg/Ue5bUi62lE-glssouzwfvA",
+  "ParentRef": "LK0QGuvYuEK_c2ORM_RTkg/24XEnHDbikSeleDRZw21_w",
+  "Created": "2025-03-31T15:59:21.3133651Z",
+  "Updated": "2025-03-31T15:59:29.4053948Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
